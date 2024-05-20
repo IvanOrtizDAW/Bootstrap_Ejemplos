@@ -1,0 +1,13 @@
+h1 {
+  text-align: center;
+}
+
+.alertas {
+  margin: 20px;
+  text-align: center;
+}
+
+.alertas svg {
+  width: 3em;
+  height: 6em;
+}
